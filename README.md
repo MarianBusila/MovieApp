@@ -1,6 +1,6 @@
 # Overview
 
-Movie app react application using _redux toolkit_, _scss_, _react router_, _axios_.
+Movie app react application using _redux toolkit_, _sass css_, _react router_, _axios_.
 
 Based on this [Youtube tutorial](https://www.youtube.com/watch?v=2kL28Qyw9-0).
 
